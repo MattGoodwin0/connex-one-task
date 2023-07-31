@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+.header {
+  background-color: lightblue;
+  padding: 30px;
+  font-weight: 900;
+  font-size: x-large;
+}
+
+.main {
+  display: flex;
+}
+
+.left-block,
+.right-block {
+  flex: 1;
+  padding: 10px;
+}
+
+h1 {
+  font-size: 52px;
+}
+
+p {
+  font-size: 28px;
+}
